@@ -1,0 +1,26 @@
+apricot_cake.txt
+
+a super simple cake.
+
+two components: dough and apricots.
+
+just mix the dough, put in a form, cover with the fruit, and bake.
+
+dough:
+
+Kuchenteig, gerieben
+
+150 g Mehl (Vollkorn oder gemischt)
+1/4 Kaffeelöffel Salz
+50-75 g Butter
+4 Esslöffel Wasser
+
+Butter in Flocken über dem Mehl verteilen und fein mit dem Mehl verrreiben.
+Wasser und Salz dazugeben und zu Teig kneten.
+3 mm dick auswalzen und bei 250-300 grad backen.
+
+For instance, cover with apricots. simple and delicious!
+
+apricots:
+
+Milch, Rohrucker, Rahm, 1 Ei.
