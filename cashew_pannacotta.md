@@ -4,24 +4,24 @@ cashew pannacotta with strawberry sauce
 
 pannacotta:
 
-280 g wasser
-70 g cashewmus
-2 msp bourbonvanille
-60 g agavendicksaft
-1 g agar-agar
-1 prise salz
+- 280 g wasser
+- 70 g cashewmus
+- 2 msp bourbonvanille
+- 60 g agavendicksaft
+- 1 g agar-agar
+- 1 prise salz
 
 erdbeersosse:
 
-150 g erdbeeren
-30 g agavendicksaft
-2 msp bourbonvanille
-1 prise salz
-pfeffer
+- 150 g erdbeeren
+- 30 g agavendicksaft
+- 2 msp bourbonvanille
+- 1 prise salz
+- pfeffer
 
 garnieren:
 
-100 g heidelbeeren
+- 100 g heidelbeeren
 
 zubereitung 20 minuten + 60 minuten kuehlzeit
 
@@ -36,5 +36,4 @@ mit uebrigen zutaten puerieren.
 sosse auf die panacotaa verteilen.
 mit heidelbeeren garnieren.
 
-
-![cashew-pannacotta mit erdbeersauce](cashew_pannacotta.jpeg "cashew-pannacotta mit erdbeersauce")
+![cashew-pannacotta mit erdbeersauce](cashew_pannacotta_1k.jpeg "cashew-pannacotta mit erdbeersauce")
