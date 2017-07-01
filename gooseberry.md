@@ -39,3 +39,8 @@ Die Stachelbeeren mit dem Gelierzucker ca. 1-2 Stunden ziehen lassen.
 Mit dem Pürierstab grob pürieren, anschließend 5-10 Minuten unter Rühren sprudelnd kochen lassen. Zum Schluss einige sehr fein geschnittene Minzeblätter hinzufügen. 
 
 Die heiße Marmelade in Gläser füllen, sofort verschließen und 5 Minuten auf den Deckel stellen.
+
+
+# Jeremy's Tip
+
+Add as much ginger as you like. The more the better.
