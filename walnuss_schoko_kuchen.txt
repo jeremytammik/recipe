@@ -1,4 +1,4 @@
-/Users/tammikj/j/doc/recipe/walnuss_schoko_kuchen.txt
+/j/doc/recipe/walnuss_schoko_kuchen.txt
 
 walnuss-schokokuchen
 
