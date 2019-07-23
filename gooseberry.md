@@ -34,13 +34,25 @@ Makes 4 jars
 
 ## Zubereitung
 
-Die Stachelbeeren mit dem Gelierzucker ca. 1-2 Stunden ziehen lassen. 
+Die Stachelbeeren mit dem Gelierzucker ca. 1-2 Stunden ziehen lassen.
 
-Mit dem Pürierstab grob pürieren, anschließend 5-10 Minuten unter Rühren sprudelnd kochen lassen. Zum Schluss einige sehr fein geschnittene Minzeblätter hinzufügen. 
+Mit dem Pürierstab grob pürieren, anschließend 5-10 Minuten unter Rühren sprudelnd kochen lassen. Zum Schluss einige sehr fein geschnittene Minzeblätter hinzufügen.
 
 Die heiße Marmelade in Gläser füllen, sofort verschließen und 5 Minuten auf den Deckel stellen.
 
 
-# Jeremy's Tip
+# Jeremy's Tips and Experiences
 
 Add as much ginger as you like. The more the better.
+
+## 2019-07-23
+
+- Gooseberries, one kg, straight from the market, no washing, cleaning, or anything
+- Normal sugar, no pectin, 400 g
+- Agar-agar, just less than one level teaspoonful
+- Ginger, ca. 3 x 2 x 2 centimetre piece
+- Mint leaves from one full 60 cm stem
+- Let the gooseberries rest and soak in sugar for an hour or so
+- Add a spoonful or two of water before staring to boil it
+- Sterilise the jars
+- Fill and close the jars
