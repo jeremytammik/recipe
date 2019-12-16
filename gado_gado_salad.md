@@ -4,4 +4,24 @@ Please refer to [wikipedia for a generic gado-gado recipe](https://en.wikipedia.
 
 Here is Lina's special one:
 
-![gado-gado](img/gado_gado_salad.jpg)
+<img src="img/gado_gado_salad.jpg" alt="gado-gado" width="400"/>
+
+2019-12-16
+
+fuer fuenf:
+
+- zwiebel anbraten
+- kartoffel 6 mm wuerfel anbraten
+- lauch anbraten
+- moehren anbraten
+- chilischote
+- ingwer
+- knoblauch
+- erdnuesse
+- wirz
+- mais
+- kidneybohnen
+- sojasosse
+- balsamicoessig
+- saft einer limone
+- koriander
