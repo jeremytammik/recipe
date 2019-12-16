@@ -4,7 +4,7 @@ Please refer to [wikipedia for a generic gado-gado recipe](https://en.wikipedia.
 
 Here is Lina's special one:
 
-<img src="img/gado_gado_salad.jpg" alt="gado-gado" width="400"/>
+<img src="img/gado_gado_salad.jpg" alt="gado-gado" width="300"/>
 
 2019-12-16
 
@@ -24,4 +24,9 @@ fuer fuenf:
 - sojasosse
 - balsamicoessig
 - saft einer limone
-- koriander
+- koriander leaves
+
+suggestions for next time:
+
+- sweeter, e.g., with raisin, apple, m ango, dates, ananas
+- stronger, more taste, e.g., chili, chili paste, soy sauce, etc.
