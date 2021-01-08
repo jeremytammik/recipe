@@ -1,5 +1,7 @@
-1 liter guter weisser wuerziger weisswein
-0.5 lieter wasser
+gluehwein
+
+1 liter guter wuerziger weisswein
+0.5 liter wasser
 4 teeloeffel gluehweinmischung
 1 teeloeffel roibuschtee
 100 gramm kandiszucker
@@ -7,3 +9,13 @@ orangenschnitze
 nelken
 
 erhitzen, aufschaeumen, 20 minuten ziehen lassen, heiss trinken
+
+gluehweingewuerz
+
+fuer eine flasche wein, 0.75 liter:
+
+50 g braunen Kandis
+2 EL Nelken
+3 Sternanis
+3 Stangen Zimt
+3 EL getrocknete Orangenschalen
