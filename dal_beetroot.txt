@@ -10,7 +10,7 @@ yoghurt
 
 chutneygewuerze:
 
-gelbwurz
+gelbwurz = curcuma
 cumin
 ingwer
 nelke
