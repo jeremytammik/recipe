@@ -1,6 +1,6 @@
 /j/doc/recipe/dal_kali.txt
 
-# Dal Kali
+## Dal Kali
 
 nordindien grundnahrungsmittel kali = schwarz
 
@@ -29,7 +29,7 @@ Vorbereitung
 - aufkochen und 10 minuten koecheln.
 - kurz vor servieren sahne unterruehren und 2 minuten mitkoecheln.
 
-# Easy Garam Masala
+## Easy Garam Masala
 
 This is a quick Garam Masala (Indian spice) mix.
 
@@ -50,7 +50,7 @@ Ingredients:
 - 0.5 teaspoon ground cloves
 - 0.5 teaspoon ground nutmeg
 
-Masala Rice (vegetable spiced rice)
+## Masala Rice (vegetable spiced rice)
 
 This versatile dish is ideal for late spring or early summer. It's also a delicious dish that cooks quickly, at the end of a long day.
 
