@@ -1,2 +1,0 @@
-# recipe
-Jeremy's Recipes.
